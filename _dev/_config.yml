@@ -1,5 +1,5 @@
-baseurl: ''
-url: 'http://wwww.dcassociados.com.br'
+baseurl: 'http://localhost:1818/'
+url: ''
 markdown: kramdown
 gems:
   - jekyll-paginate
@@ -13,6 +13,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - package.json
+  - .publish
 site-structure: multipage
 g-analytics: UA-59944728-3
 fb-app-id: '915671155245552'
@@ -31,7 +32,7 @@ job: DC Associadosr
 title: DC Associados
 description: DC Associados
 logo: +logo.png
-favico: /lib/img/_favicon.ico
+favico: +ico.png
 email: contatoo@dcassociados.com.br
 country: Brasil
 region: São Paulo
