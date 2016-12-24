@@ -26,20 +26,16 @@ paginate_link: /work/page
 paginate_path: '/work/page:num'
 img-path: /lib/img
 img-max-width: '1920'
-author: Diogo Russo
-job: experience designer
-title: Estúdio Berinjela | Criação
-description: >-
-  I'm a DESIGNER and STORYTELLER I help businesses, individuals and communities
-  craft meaningful EXPERIENCES and PRODUCTS
+author: DC Associados
+job: DC Associadosr
+title: DC Associados
+description: DC Associados
 logo: +logo.png
 favico: /lib/img/_favicon.ico
-avatar: +avatar.png
-card: /lib/img/_site_card.jpg
-email: hello@diogorusso.com
-country: United States
-region: California
-city: Berkeley
+email: contatoo@dcassociados.com.br
+country: Brasil
+region: São Paulo
+city: São Paulo
 img-bio-max-size: 791
 img-bio-breakpoints:
   - 791
@@ -47,31 +43,26 @@ img-bio-breakpoints:
 img-profile: bio-img-profile.jpg
 img-card: bio-img-postcard.jpg
 txt-bio-bg: '#ccc'
-txt-bio: >-
-  Aqui designers, FILMAKERS, FOTÓGRAFOS, ILUSTRADORES, ARTISTAS e entusiastas
-  trabalham de maneira colaborativa, com dedicação, para transformar IDEIAS em
-  RESULTADOS.
-txt-bio-2: >-
-  Entre os diversos trabalhos realizados destacam-se vídeos institucionais,
-  coberturas audiovisuais, identidade visual, curadoria e produção artística.
+txt-bio: DC Associados
+txt-bio-2: DC Associados
 bio-btn-txt: Perfil Completo
-bio-btn-link: 'https://www.linkedin.com/in/diogorusso/en'
+bio-btn-link: '#'
 skills:
-  - title: 1 Idéia
+  - title: DC Associados
     icon: /lib/img/bio-skill-img-01.png
-  - title: 2 Proposta
+  - title: DC Associados
     icon: /lib/img/bio-skill-img-02.png
-  - title: 3 Criação
+  - title: DC Associados
     icon: /lib/imgs/bio-skill-img-03.png
-  - title: 4 Fim
+  - title: DC Associados
     icon: /lib/img/bio-skill-img-04.png
-hero-title: Estúdio Berinjela
-hero-subtitle: Ajudamos pessoas e negócios a<br> melhor comunicarem suas ideias.
+hero-title: DC Associados
+hero-subtitle: DC Associados
 hero-btn-txt: mais
-hero-key-word-1: Vídeos e Motion
-hero-key-word-2: Pautas e Coberturas
-hero-key-word-3: Design e Ilustração
-hero-key-word-4: Orientação Criativa
+hero-key-word-1: DC Associados
+hero-key-word-2: DC Associados
+hero-key-word-3: DC Associados
+hero-key-word-4: DC Associados
 hero-transtion: slide
 hero-arrows: false
 hero-autoplay: false
@@ -92,7 +83,7 @@ menu-links_multipage:
   - title: Connect
     url: '#connect'
 menu-links_onepage:
-  - title: O Estúdio
+  - title: DC Associados
     url: '#bio'
   - title: Criação
     url: '#process-steps-bar'

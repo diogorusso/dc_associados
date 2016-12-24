@@ -6,7 +6,7 @@ job: "DC Associadosr"
 title: "DC Associados"
 description: "DC Associados"
 logo: "+logo.png"
-favico: "/lib/img/_favicon.ico"
+favico: "+ico.png"
 #avatar: "+avatar.png"
 #card: "/lib/img/_site_card.jpg"
 email: contatoo@dcassociados.com.br
