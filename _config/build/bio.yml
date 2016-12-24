@@ -8,20 +8,20 @@ img-card: 'bio-img-postcard.jpg'
 
 
 txt-bio-bg: "#ccc"
-txt-bio: 'Aqui designers, FILMAKERS, FOTÓGRAFOS, ILUSTRADORES, ARTISTAS e entusiastas trabalham de maneira colaborativa, com dedicação, para transformar IDEIAS em RESULTADOS.'
-txt-bio-2: 'Entre os diversos trabalhos realizados destacam-se vídeos institucionais, coberturas audiovisuais, identidade visual, curadoria e produção artística.'
+txt-bio: 'DC Associados'
+txt-bio-2: 'DC Associados'
 
 bio-btn-txt:  "Perfil Completo"
-bio-btn-link:  "https://www.linkedin.com/in/diogorusso/en"
+bio-btn-link:  "#"
 
 
 skills: 
-  - title: "1 Idéia"
+  - title: "DC Associados"
     icon: '/lib/img/bio-skill-img-01.png'
-  - title: "2 Proposta"
+  - title: "DC Associados"
     icon: "/lib/img/bio-skill-img-02.png"
-  - title: "3 Criação"
+  - title: "DC Associados"
     icon: "/lib/imgs/bio-skill-img-03.png"
-  - title: "4 Fim"
+  - title: "DC Associados"
     icon: "/lib/img/bio-skill-img-04.png"
 

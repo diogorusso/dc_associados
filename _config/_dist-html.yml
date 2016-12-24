@@ -1,8 +1,8 @@
 
 #BASE
 
-baseurl: "dcassociados.com.br" # only for github, gulp baseurl set in config_dev.yml
-url: "" # the base hostname & protocol for your site
+baseurl: "" # only for github, gulp baseurl set in config_dev.yml
+url: "http://wwww.dcassociados.com.br" # the base hostname & protocol for your site
 
 # Build settings - PRODUCTION
 markdown: kramdown
