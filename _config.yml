@@ -31,7 +31,7 @@ job: DC Associadosr
 title: DC Associados
 description: DC Associados
 logo: +logo.png
-favico: /lib/img/_favicon.ico
+favico: +ico.png
 email: contatoo@dcassociados.com.br
 country: Brasil
 region: São Paulo
